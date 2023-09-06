@@ -1,2 +1,2 @@
 # CPP
-LPU Cpp codes
+Class code practices
